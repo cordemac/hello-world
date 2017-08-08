@@ -1,2 +1,3 @@
 # hello-world
 A space for experimenting with GitHub features...
+I'm a product manager who loves trying new technology.
